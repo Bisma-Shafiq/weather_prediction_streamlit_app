@@ -1,0 +1,4 @@
+neuralprophet
+pandas
+numpy
+streamlit
