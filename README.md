@@ -30,3 +30,11 @@ The historical weather data used in this app is sourced from the 'weatherAUS.csv
 Acknowledgments
 The NeuralProphet library is developed by Owain Evans and Michael Usachenko, and it is used in this app for time series forecasting.
 The weather data used in this app is sourced from the Australian Bureau of Meteorology.
+
+![Screenshot (154)](https://github.com/Bisma-Shafiq/weather_prediction_streamlit_app/assets/148833585/3d66e1a1-aab9-48ad-9f16-09ac52563825)
+
+
+![Screenshot (155)](https://github.com/Bisma-Shafiq/weather_prediction_streamlit_app/assets/148833585/b3687d7d-2798-4e66-91b3-d7dd320282f7)
+
+
+
